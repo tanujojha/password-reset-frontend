@@ -1,0 +1,57 @@
+
+
+.fpa{
+    font-weight: bold;
+    color: rgb(120, 115, 115);
+    text-decoration: none;
+    text-align: center;
+}
+
+
+.form-floating:nth-child(3) {
+    margin-top: 4px;
+
+}
+
+#floatingPassword,
+#floatingInput {
+    /* background-color: rgba(65, 53, 53, 0.14813258066898638); */
+    border: 2px solid #2d4964;
+    color: black;
+}
+
+h1.h3 {
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+}
+
+.showbtn {
+    background-color: black;
+    position: absolute;
+    top: 22%;
+    right: 10px;
+    background-color: transparent;
+    border: none;
+}
+
+.form-signin {
+    /* background-color: #90a5b8; */
+    /* color: rgb(58, 54, 54); */
+    width: 40%;
+    margin: 80px auto;
+    /* position: absolute; */
+    
+}
+
+.signinbtn {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+@media only screen and (max-width: 750px){
+    .form-signin{
+        width: 70%;
+        /* background-color: blue; */
+    }
+}

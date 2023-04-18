@@ -1,0 +1,11 @@
+.main{
+    width: 80%;
+    margin: 100px auto;
+}
+
+.choicediv{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin: 30px auto;
+}
